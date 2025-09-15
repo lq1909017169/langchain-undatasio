@@ -18,4 +18,4 @@ dependencies = [
 dev = ["pytest>=7", "ruff"]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USER/langchain-undatasio"
+Homepage = "https://github.com/lq1909017169/langchain-undatasio"
