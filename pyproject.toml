@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "langchain-core>=0.1",
-    "undatasio",      # 你的底层包
+    "undatasio>=0.2.0.2",      # 你的底层包
     "pandas>=1.5",
 ]
 
