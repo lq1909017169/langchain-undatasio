@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "langchain-undatasio"
-version = "0.1.0"
+version = "1.0.0"
 description = "LangChain Document Loader for UnDatasIO"
 readme = "README.md"
 requires-python = ">=3.9"
